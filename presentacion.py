@@ -1,0 +1,5 @@
+print("Hola mi nombre es Mayra, tengo 26 años ")
+print("soy de quilmes oeste,Buenos Aires")
+print("enseño a programar con Arduino en una escuela, debido a eso,me intereso saber mas sobre programación ")
+print(" lo necesito para  poder avanzar en proyectos de la escuela y personales")
+print("ver peliculas y escucahar musica ")
